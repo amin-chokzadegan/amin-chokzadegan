@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Amin Chokzadegan
 
-<!--
-**amin-chokzadegan/amin-chokzadegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Machine Learning Engineer | Python Developer | Medical AI Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence, Machine Learning, and building real-world AI solutions for healthcare and medical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+
+* Python Programming
+* Machine Learning
+* Deep Learning
+* Medical AI
+* Data Analysis
+* Git & GitHub
+* Kaggle Projects
+
+## 🛠️ Technologies & Tools
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Git
+* GitHub
+* Jupyter Notebook
+
+## 🎯 Goals
+
+* Build real-world Medical AI projects
+* Contribute to open-source AI projects
+* Work remotely with international teams
+* Grow as an AI Engineer
+
+## 📫 Connect with me
+
+* LinkedIn: [www.linkedin.com/in/amin-chokzadegan](http://www.linkedin.com/in/amin-chokzadegan)
