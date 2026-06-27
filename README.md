@@ -37,4 +37,6 @@ better decisions, and better decisions save lives.
 
 ## 📫 Connect
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-chokzadegan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/aminchokzadegan)
