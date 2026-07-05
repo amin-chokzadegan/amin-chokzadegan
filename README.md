@@ -7,7 +7,7 @@ better decisions, and better decisions save lives.
 
 ---
 
-## 🔬 Featured Project
+## 🔬 Featured Projects
 
 ### 🫀 Heart Disease Prediction
 > Logistic Regression model on Cleveland Heart Disease Dataset  
@@ -15,6 +15,11 @@ better decisions, and better decisions save lives.
 > Key finding: Max heart rate (thalach) strongest predictor  
 > [View Project →](https://github.com/amin-chokzadegan/heart-disease-prediction)
 
+### 🏥 Diabetes Hospital Readmission Prediction
+> XGBoost model on UCI 130-US Hospitals Dataset  
+> **AUC: 0.637 | Recall: 84%**  
+> Key finding: Previous inpatient visits strongest predictor  
+> [View Project →](https://github.com/amin-chokzadegan/hospital-readmission-prediction)
 ---
 
 ## 🛠️ Tech Stack
