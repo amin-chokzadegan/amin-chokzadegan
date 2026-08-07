@@ -37,6 +37,7 @@ better decisions, and better decisions save lives.
 - Deep Learning — Andrew Ng's Specialization
 - Neural Networks fundamentals
 - Healthcare AI applications
+- Rebuilding math fundamentals (linear algebra & calculus) before continuing
 
 
 ---
