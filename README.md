@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Amin Chokzadegan
-## Machine Learning Engineer | Industrial Engineer
-I apply AI to real-world industrial and operational problems — because good process thinking and good data thinking come from the same place.
+## Data Analysis & Machine Learning
+Self-taught in Python and Machine Learning since 2025, with a background in Industrial Engineering. Available for freelance and remote data/ML projects.
 
 ---
 ## 🔬 Featured Projects
-### Predictive Modeling — Binary Classification
+### Binary Classification with Logistic Regression
 > Logistic Regression model on a public dataset
 > **Accuracy: 91.7% | AUC: 0.953**
 > Key finding: Identified and analyzed the strongest predictive feature
 > [View Project →](https://github.com/amin-chokzadegan/heart-disease-prediction)
 
-### Predictive Modeling — Imbalanced Classification
+### Imbalanced Classification with XGBoost + SMOTE
 > XGBoost model with SMOTE on a public dataset (severe class imbalance)
 > **AUC: 0.637 | Recall: 84%**
 > Key finding: Threshold tuned to prioritize recall over raw accuracy
@@ -28,7 +28,6 @@ I apply AI to real-world industrial and operational problems — because good pr
 ## 📚 Currently Learning
 - Machine Learning fundamentals — Andrew Ng's Deep Learning Specialization (Course 2, Week 1)
 - Rebuilding math fundamentals (linear algebra & calculus) before continuing
-- Applied AI for industrial and operational problems
 
 ---
 ## 📫 Connect
